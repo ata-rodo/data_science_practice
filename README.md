@@ -1,1 +1,1 @@
-# data_science_practice
+I have created this repository to display some of my database practice using various Python libraries such as Pandas, NumPy, MatPlotLib, Seaborn and Datetime. I use these libraries to manipulate, analyse and present data i varied formats.
